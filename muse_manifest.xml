@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kitkatart.github.io/kitorinohannah" resolutions="1x" timestamp="1576268355824">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kitkatart.github.io/kitorinohannah" resolutions="1x" timestamp="1576268607998">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="hannah.css" crc="306022747" ref="hannah"/>
     <file name="historias.css" crc="3846785973" ref="historias"/>
     <file name="artes.css" crc="44622517" ref="artes"/>
-    <file name="index.css" crc="152718995" ref="index"/>
-    <file name="menu.css" crc="16718541" ref="menu"/>
+    <file name="index.css" crc="4249281217" ref="index"/>
+    <file name="menu.css" crc="4230783510" ref="menu"/>
     <file name="kitori.css" crc="74641370" ref="kitori"/>
   </folder>
   <folder name="scripts">
@@ -49,8 +49,8 @@
     <file name="u301_states-r.png" crc="366469976" ref="artes"/>
     <file name="u301_states-m.png" crc="4096179155" ref="artes"/>
   </folder>
-  <file name="index.html" crc="72119346" seo="true" mt="1576265339950" redirect="true"/>
-  <file name="menu.html" crc="1623872" seo="true" mt="1576268348199" redirect="true"/>
+  <file name="index.html" crc="4090678463" seo="true" mt="1576268601050" redirect="true"/>
+  <file name="menu.html" crc="4002798803" seo="true" mt="1576268523487" redirect="true"/>
   <file name="kitori.html" crc="480714410" seo="true" mt="1576265443653" redirect="true"/>
   <file name="hannah.html" crc="3875796829" seo="true" mt="1576265468198" redirect="true"/>
   <file name="historias.html" crc="216280762" seo="true" mt="1576265605042" redirect="true"/>
